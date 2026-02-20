@@ -1,2 +1,3 @@
-application:
-  name: "App Configurations from git"
+spring:
+  application:
+    name: "Default Configuration Name"
